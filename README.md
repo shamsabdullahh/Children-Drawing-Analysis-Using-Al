@@ -73,13 +73,11 @@ The model predicts emotional states based on drawing patterns and visual feature
 
 ### Example Predictions
 
-* Sad
-* Fear
-* Happy
-* Angry
+### 😊 Happy
+![Happy](images/happy.png)
 
-> You can add sample output images inside the `images/` folder and display them here.
-
+### 😡 Angry
+![Angry](images/angry.png)
 ---
 
 ## 📁 Project Structure
